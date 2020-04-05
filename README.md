@@ -6,6 +6,6 @@ Details are given in the readme file of the client-side.
 
 Developers:
 
-Tanjim Ahmed Khan (Me) https://github.com/tanjim17
+Tanjim Ahmed Khan https://github.com/tanjim17
 
 Ayan Antik Khan https://github.com/Ayan-Antik
